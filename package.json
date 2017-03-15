@@ -1,0 +1,13 @@
+{
+  "name": "ipfs-create-chain",
+  "version": "0.1.0",
+  "dependencies": {
+    "fiber-utils": "^0.8.2",
+    "fibers": "^1.0.15",
+    "ipfs-api": "git://github.com/mitar/js-ipfs-api.git#428e8eabdb374251176fab8e0835f479c645cd9a"
+  },
+  "engines": {
+    "node": "6.10.0"
+  },
+  "private": true
+}
